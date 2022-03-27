@@ -48,3 +48,20 @@
 | H3K79me2 | H3K79me2.bam |
 | H3K9ac | H3K9ac.bam |
 | H4K20me1 | H4K20me1.bam |
+
+## Эпигенетические типы
+
+| Состояние | Метка | Изображение | CpG островки рядом | Тип |
+| :-----------: | :-----------: | :-----------: | :-----------: |
+| 1 | Нет | ![image](https://user-images.githubusercontent.com/60858323/160300226-99fabac0-fcd3-4c5c-9184-0b8905ff6112.png) | Нет | Интрон |
+| 2 | H3K27me3 | ![image](https://user-images.githubusercontent.com/60858323/160300226-99fabac0-fcd3-4c5c-9184-0b8905ff6112.png) | Нет | Интрон |
+| 3 | H3K4me1 | ![image](https://user-images.githubusercontent.com/60858323/160300380-69faa10e-497d-4c3c-bd76-37fc2f126a0c.png) | Нет | Интрон |
+| 4 | Нет | ![image](https://user-images.githubusercontent.com/60858323/160300509-c4a00d01-2b7e-41ce-ac51-5fa344d12b1d.png) | Нет | Интрон |
+| 5 | H3K79me2 | ![image](https://user-images.githubusercontent.com/60858323/160300556-03bca4ee-9453-4555-a4c5-f64bb4cbbaa7.png) | Нет | Интрон |
+| 6 | H3K79me2 | ![image](https://user-images.githubusercontent.com/60858323/160300556-03bca4ee-9453-4555-a4c5-f64bb4cbbaa7.png) | Нет | Интрон |
+| 7 | H3K79me2 | ![image](https://user-images.githubusercontent.com/60858323/160300556-03bca4ee-9453-4555-a4c5-f64bb4cbbaa7.png) | Нет | Интрон |
+| 8 | H3K4me3, H3K27ac | ![image](https://user-images.githubusercontent.com/60858323/160300144-ae56c311-5afb-4974-b7fa-e14c0b72165c.png) | Нет | Интрон |
+| 9 | Нет | ![image](https://user-images.githubusercontent.com/60858323/160300462-92669740-bf86-42b3-92c7-4730bfecc237.png) | Нет | Интрон |
+| 10 | Нет | ![image](https://user-images.githubusercontent.com/60858323/160300430-b0295be8-7c18-45ad-a6d7-508c717bdc45.png) | Нет | Экзон |
+
+
