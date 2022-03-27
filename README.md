@@ -34,3 +34,17 @@
 ![Dnd41_10_RefSeqTES_neighborhood](https://user-images.githubusercontent.com/60858323/160299079-ebc15d04-de1c-41f6-9347-2dda5951baf7.png)
 ![Dnd41_10_RefSeqTSS_neighborhood](https://user-images.githubusercontent.com/60858323/160299084-8639990d-3f17-43b7-8fca-6646dd14b111.png)
 
+## Проанализированные гистоновые метки
+
+| Гистоновая метка | Название файла |
+| :-----------: | :-----------: |
+| H2AFZ | H2AFZ.bam |
+| H3K27ac | H3K27ac.bam |
+| H3K27me3 | H3K27me3.bam |
+| H3K36me3 | H3K36me3.bam |
+| H3K4me1 | H3K4me1.bam |
+| H3K4me2 | H3K4me2.bam |
+| H3K4me3 | H3K4me3.bam |
+| H3K79me2 | H3K79me2.bam |
+| H3K9ac | H3K9ac.bam |
+| H4K20me1 | H4K20me1.bam |
