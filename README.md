@@ -1,5 +1,7 @@
 # Домашнее задание №3
 
+# Часть 1
+
 ## Исходный код
 
 ```
@@ -64,4 +66,8 @@
 | 9 | H2AFZ, H3K27ac, H3K4me1, H3K4me2, H3K4me3 | ![image](https://user-images.githubusercontent.com/60858323/160475374-ad220a0a-2633-493a-adc7-d988d244cbd6.png) | Да | В конце гена | Нет | Transcribed |
 | 10 | H2AFZ, H3K27ac, H3K36me3, H3K4me1, H3K4me2, H3K4me3, H3K79me2, H3K9ac, H4K20me1 | ![image](https://user-images.githubusercontent.com/60858323/160469483-7a5ea789-45c4-4832-a083-99b78b62149b.png) | Да | В начале гена | Нет | Promoter |
 
+# Часть 2 (бонусная)
 
+Кон находится в приклеплённом .ipynb файле:
+
+![image](https://user-images.githubusercontent.com/60858323/160485354-d66d2c8e-5920-4202-a596-6fae6da2443b.png)
