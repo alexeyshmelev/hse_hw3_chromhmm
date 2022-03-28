@@ -51,17 +51,17 @@
 
 ## Эпигенетические типы
 
-| Состояние | Метка | Изображение | CpG островки рядом | Тип |
-| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 1 | Нет | ![image](https://user-images.githubusercontent.com/60858323/160300226-99fabac0-fcd3-4c5c-9184-0b8905ff6112.png) | Нет | Интрон |
-| 2 | H3K27me3 | ![image](https://user-images.githubusercontent.com/60858323/160300226-99fabac0-fcd3-4c5c-9184-0b8905ff6112.png) | Нет | Интрон |
-| 3 | H3K4me1 | ![image](https://user-images.githubusercontent.com/60858323/160300380-69faa10e-497d-4c3c-bd76-37fc2f126a0c.png) | Нет | Интрон |
-| 4 | Нет | ![image](https://user-images.githubusercontent.com/60858323/160300509-c4a00d01-2b7e-41ce-ac51-5fa344d12b1d.png) | Нет | Интрон |
-| 5 | H3K79me2 | ![image](https://user-images.githubusercontent.com/60858323/160300556-03bca4ee-9453-4555-a4c5-f64bb4cbbaa7.png) | Нет | Интрон |
-| 6 | H3K79me2 | ![image](https://user-images.githubusercontent.com/60858323/160300556-03bca4ee-9453-4555-a4c5-f64bb4cbbaa7.png) | Нет | Интрон |
-| 7 | H3K79me2 | ![image](https://user-images.githubusercontent.com/60858323/160300556-03bca4ee-9453-4555-a4c5-f64bb4cbbaa7.png) | Нет | Интрон |
-| 8 | H3K4me3, H3K27ac | ![image](https://user-images.githubusercontent.com/60858323/160300144-ae56c311-5afb-4974-b7fa-e14c0b72165c.png) | Нет | Интрон |
-| 9 | Нет | ![image](https://user-images.githubusercontent.com/60858323/160300462-92669740-bf86-42b3-92c7-4730bfecc237.png) | Нет | Интрон |
-| 10 | Нет | ![image](https://user-images.githubusercontent.com/60858323/160300430-b0295be8-7c18-45ad-a6d7-508c717bdc45.png) | Нет | Экзон |
+| Состояние | Метка | Изображение | CpG островки рядом | Расположение относительно генов | Наличие рядом lamina associated domains | Тип |
+| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| 1 | H2AFZ, H3K27ac, H3K27me3 | ![image](https://user-images.githubusercontent.com/60858323/160476333-15d3f34e-f030-489d-adb4-909a94586dc1.png) | Да | Везде | Нет | Transcribed |
+| 2 | Нет | ![image](https://user-images.githubusercontent.com/60858323/160471592-1f1534b3-b703-4375-a7e0-ba1c185cbbdb.png) | На данном рисунке есть, но чаще всего нет | Вне гена | Нет | Repressed |
+| 3 | Нет | ![image](https://user-images.githubusercontent.com/60858323/160473996-f2ba76a1-74a5-4fed-961e-bee67cdf72a3.png) | Да | Вне гена | Нет | Transcribed |
+| 4 | H3K36me3 | ![image](https://user-images.githubusercontent.com/60858323/160472292-22f17d40-405a-40ea-8b98-c3bffa49c2fd.png) | Нет | Вне гена | Нет | Transcribed |
+| 5 | H3K36me3 | ![image](https://user-images.githubusercontent.com/60858323/160477085-fb1d9030-aac9-40f3-bd20-be636b18275a.png) | Нет | Вне гена | Да | Transcribed |
+| 6 | H3K36me3, H4K20me1 | ![image](https://user-images.githubusercontent.com/60858323/160474812-174ccdde-0a71-444a-8ee5-a564ea10f0b2.png) | Да | Вне гена | Нет | Transcribed |
+| 7 | H3K79me2 | ![image](https://user-images.githubusercontent.com/60858323/160472827-5d7e900c-ce5c-4275-85ce-39b2816b0ab6.png) | Нет | Вне гена | Нет | Transcribed |
+| 8 | H2AFZ, H3K27ac, H3K36me3, H3K4me1, H3K4me2, H3K4me3, H3K79me2, H3K9ac, H4K20me1 | ![image](https://user-images.githubusercontent.com/60858323/160471061-47a00050-cc8a-4a76-aac2-64d009eec115.png) | Да | Внутри гена | Нет | Transcribed |
+| 9 | H2AFZ, H3K27ac, H3K4me1, H3K4me2, H3K4me3 | ![image](https://user-images.githubusercontent.com/60858323/160475374-ad220a0a-2633-493a-adc7-d988d244cbd6.png) | Да | В конце гена | Нет | Transcribed |
+| 10 | H2AFZ, H3K27ac, H3K36me3, H3K4me1, H3K4me2, H3K4me3, H3K79me2, H3K9ac, H4K20me1 | ![image](https://user-images.githubusercontent.com/60858323/160469483-7a5ea789-45c4-4832-a083-99b78b62149b.png) | Да | В начале гена | Нет | Promoter |
 
 
